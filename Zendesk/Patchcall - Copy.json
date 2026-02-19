@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1001,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "8 hours"
+            },
+            {
+                "id": 545,
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "4 hours"
+            },
+            {
+                "id": 545,
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": 1003,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "2 hours"
+            },
+            {
+                "id": 545,
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": 1004,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "12 hours"
+            },
+            {
+                "id": 545,
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": 1005,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "6 hours"
+            },
+            {
+                "id": 545,
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": 1006,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "1 hour"
+            },
+            {
+                "id": 545,
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": 1007,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "5 hours"
+            },
+            {
+                "id": 545,
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": 1008,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "10 hours"
+            },
+            {
+                "id": 545,
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": 1009,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "3 hours"
+            },
+            {
+                "id": 545,
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": 1010,
+        "custom_fields": [
+            {
+                "id": 4389,
+                "value": "7 hours"
+            },
+            {
+                "id": 545,
+                "value": "false"
+            }
+        ]
+    }
+]
